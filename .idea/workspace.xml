@@ -39,7 +39,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="56" />
-          <entry key="gitignore" value="7" />
+          <entry key="gitignore" value="10" />
           <entry key="md" value="1251" />
           <entry key="py" value="1584" />
         </counts>
@@ -47,7 +47,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="1251" />
-          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="PLAIN_TEXT" value="66" />
           <entry key="Python" value="1584" />
         </counts>
       </usages-collector>
@@ -93,7 +93,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -458,7 +462,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
